@@ -65,7 +65,6 @@ You can click the Preview link to take a look at your changes.
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
     <a href="https://codeforces.com/profile/brainsoft" target="_blank">
-        <img src="https://codeforces.org/s/1/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="120" />
+        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
     </a>
 </p>
-
