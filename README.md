@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Muhammad AL-Muzahid
-- 👀 I’m interested in Machine Learning and Competitive Programming
+- ❤️ I’m interested in Machine Learning and Competitive Programming
 - 🌱 Currently learning and working in Machine Learning with Python
 - 💞️ Looking to collaborate on **[specific projects you’re interested in]**
-- 📫 How to reach me: almuzahid16@cse.pstu.ac.bd
+- 👀 Interested in my resume? [Click here](https://resume.github.io/?almuzahid16).
+- 🔥 Feel free to text me
 
 <!---
 muhammadalmuzahid/muhammadalmuzahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
