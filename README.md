@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<!-- GitHub Stats and Top Languages -->
+<!-- GitHub Stats, Top Languages, and GitHub Streak Stats in One Row -->
 <table align="center">
     <tr>
         <td>
@@ -30,6 +30,11 @@ You can click the Preview link to take a look at your changes.
                 <img alt="Muhammad AL-Muzahid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalmuzahid&langs_count=8&count_private=true&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&text_color=333333&title_color=1E90FF&icon_color=FF8C00" />
             </a>
         </td>
+        <td>
+            <a href="https://git.io/streak-stats">
+                <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=muhammadalmuzahid&theme=default&hide_border=true&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&text_color=333333" />
+            </a>
+        </td>
     </tr>
 </table>
 
@@ -39,19 +44,6 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
     <b>Note:</b> Top languages reflect the composition of my public code, not my skill level.
 </div>
-
-<br/>
-
-<!-- Centered GitHub Streak Stats -->
-<table align="center">
-    <tr>
-        <td>
-            <a href="https://git.io/streak-stats">
-                <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=muhammadalmuzahid&theme=default&hide_border=true&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&text_color=333333" />
-            </a>
-        </td>
-    </tr>
-</table>
 
 <br/>
 
