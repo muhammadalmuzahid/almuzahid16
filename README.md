@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <!-- GitHub Stats and Top Languages -->
-<table>
+<table align="center">
     <tr>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -32,8 +32,12 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <!-- Centered GitHub Streak Stats -->
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=muhammadalmuzahid&theme=default&hide_border=true&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&text_color=333333" />
-    </a>
-</div>
+<table align="center">
+    <tr>
+        <td>
+            <a href="https://git.io/streak-stats">
+                <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=muhammadalmuzahid&theme=default&hide_border=true&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&text_color=333333" />
+            </a>
+        </td>
+    </tr>
+</table>
