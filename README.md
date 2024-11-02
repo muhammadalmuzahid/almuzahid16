@@ -31,13 +31,9 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<!-- GitHub Streak Stats -->
-<table>
-    <tr>
-        <td>
-            <a href="https://git.io/streak-stats">
-                <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=muhammadalmuzahid&theme=default&hide_border=true&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&text_color=333333" />
-            </a>
-        </td>
-    </tr>
-</table>
+<!-- Centered GitHub Streak Stats -->
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=muhammadalmuzahid&theme=default&hide_border=true&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&text_color=333333" />
+    </a>
+</div>
