@@ -69,3 +69,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://img.shields.io/badge/Codeforces-B31F25?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
     </a>
 </p>
+<!-- Profile Views Counter -->
+<div align="center">
+    ![Profile Views](https://komarev.com/ghpvc/?username=muhammadalmuzahid&color=blue&style=for-the-badge)
+</div>
