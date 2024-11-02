@@ -27,7 +27,12 @@ You can click the Preview link to take a look at your changes.
     </tr>
 </table>
 
-**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+
+<!-- Centered Note Section -->
+<div align="center">
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</div>
 
 <br/>
 
