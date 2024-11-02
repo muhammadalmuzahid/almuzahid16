@@ -19,6 +19,11 @@ You can click the Preview link to take a look at your changes.
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img alt="Muhammad AL-Muzahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadalmuzahid&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=FFFFFF&text_color=333333&title_color=1E90FF&icon_color=FF8C00" />
             </a>
+            <br/>
+            <!-- Profile Views Counter Below the Stats Card -->
+            <div align="center">
+                <img src="https://komarev.com/ghpvc/?username=muhammadalmuzahid&color=blue&style=flat-square" alt="Profile Views"/>
+            </div>
         </td>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -69,10 +74,3 @@ You can click the Preview link to take a look at your changes.
         <img src="https://img.shields.io/badge/Codeforces-B31F25?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
     </a>
 </p>
-
-<br/>
-
-<!-- Profile Views Counter -->
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=muhammadalmuzahid&color=blue&style=for-the-badge" alt="Profile Views"/>
-</div>
