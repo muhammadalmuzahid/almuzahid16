@@ -31,17 +31,12 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<!-- GitHub Streak Stats and Radar Chart -->
+<!-- GitHub Streak Stats -->
 <table>
     <tr>
         <td>
             <a href="https://git.io/streak-stats">
                 <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=muhammadalmuzahid&theme=default&hide_border=true&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&text_color=333333" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-                <img alt="GitHub Contributions Breakdown" src="https://raw.githubusercontent.com/muhammadalmuzahid/github-profile-summary-cards/master/profile-summary-card-output/default/3-stats.svg" />
             </a>
         </td>
     </tr>
