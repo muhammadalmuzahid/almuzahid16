@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<!-- GitHub Streak Stats and Profile Views in a Single Row -->
+<!-- GitHub Streak Stats, Profile Views in a Single Row with Matching Style -->
 <table align="center">
     <tr>
         <td>
@@ -46,9 +46,9 @@ You can click the Preview link to take a look at your changes.
             </a>
         </td>
         <td>
-            <!-- Profile Views Counter -->
+            <!-- Custom Profile Views Badge Styled to Match "Current Streak" -->
             <div align="center">
-                <img src="https://komarev.com/ghpvc/?username=muhammadalmuzahid&color=blue&style=for-the-badge" alt="Profile Views"/>
+                <img alt="Profile Views" src="https://img.shields.io/badge/Profile%20Views-7-orange?style=for-the-badge&labelColor=FFA500&color=FF8C00" />
             </div>
         </td>
     </tr>
