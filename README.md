@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Competitive Programming
 - 🌱 I’m currently learning and working in Machine Learning using Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me **almuzahid16@cse.pstu.ac.bd**
 
 <!---
 muhammadalmuzahid/muhammadalmuzahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
