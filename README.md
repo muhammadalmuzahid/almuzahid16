@@ -37,13 +37,19 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<!-- Centered GitHub Streak Stats -->
+<!-- GitHub Streak Stats and Profile Views in a Single Row -->
 <table align="center">
     <tr>
         <td>
             <a href="https://git.io/streak-stats">
                 <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=muhammadalmuzahid&theme=default&hide_border=true&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&text_color=333333" />
             </a>
+        </td>
+        <td>
+            <!-- Profile Views Counter -->
+            <div align="center">
+                <img src="https://komarev.com/ghpvc/?username=muhammadalmuzahid&color=blue&style=for-the-badge" alt="Profile Views"/>
+            </div>
         </td>
     </tr>
 </table>
