@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Centered Note Section -->
 <div align="center">
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <b>Note:</b> Top languages reflect the composition of my public code, not my skill level.
 </div>
 
 <br/>
