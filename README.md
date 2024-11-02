@@ -46,9 +46,9 @@ You can click the Preview link to take a look at your changes.
             </a>
         </td>
         <td>
-            <!-- Dynamic Profile Views Counter Styled to Match -->
+            <!-- Custom Profile Views Badge Styled to Match "Current Streak" -->
             <div align="center">
-                <img src="https://komarev.com/ghpvc/?username=muhammadalmuzahid&style=flat-square&color=FF8C00&label=Profile%20Views" alt="Profile Views" />
+                <img alt="Profile Views" src="https://img.shields.io/badge/Profile%20Views-7-FF8C00?style=for-the-badge&labelColor=FFA500&color=FF8C00&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ0IiB3aWR0aD0iNDQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0iIzZGNEY2NCIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiBjbGFzcz0ic3ZnLWljb24iIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDE0IDE0Ij48cGF0aCBkPSJNNy41IDEuMmMwIC42LjQgMSAxIDFzMS0uNCAxLTFjMC0uNi0uNC0xLTEtMXMtMSAuNC0xIDF6bTIuNyAyLjJjMC4yIDAgLjQuMS41IDMuNC0uNi0uNS0yLjItMi0zLjctMi4xem0tMS42IDMuNmMtMSAuMS0yIC4xLTMgMCAwIDAuNy4zIDEuNSAxLjUgMS41em01LjcgN2wtMS45LS44YzAuNi0xLjEuOS0yLjUgMS0zLjhINC4zYy4xIDEuMy4zIDIuNyAxIDMuOGwtMS45LjhjLTIuMiAxLjQtNi41IDEuNC04LjcgMCAuMiAxLjQuMSAzLjIgMy41IDMuN3YyLjFoMTEuNXYtMi4yYzMuMi0uNCAzLjMtMiAxLjItMy42ek0yLjkgMTBjLS42LjAtMS0uMy0xLS41IDEuNi0uOSAzLjMtMyAzLjMtM2MuMS4yLjQuNiAxLjMgMy40eiIvPjwvc3ZnPg==" />
             </div>
         </td>
     </tr>
