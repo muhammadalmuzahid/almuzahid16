@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-## Connect with me
+## ♾️ Connect with me
 
 <p align="center">
     <a href="https://t.me/almuzahid16" target="_blank">
