@@ -56,6 +56,14 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
+<!-- GitHub Trophies Section -->
+## 🏆 GitHub Trophies
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=muhammadalmuzahid&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
 ## Connect with me
 
 <p align="center">
