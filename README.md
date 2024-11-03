@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 <!-- GitHub Trophies Section -->
 ## 🏆 GitHub Trophies
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammadalmuzahid&theme=classic&no-frame=true&margin-w=15&margin-h=15&row=2&column=5" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=muhammadalmuzahid&theme=solarized_light&no-frame=true&margin-w=15&margin-h=15&row=2&column=5" alt="GitHub Trophies" />
 </div>
 
 <br/>
