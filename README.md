@@ -4,6 +4,7 @@
 - 💞️ Looking to collaborate on **[specific projects you’re interested in]**
 - 👀 Interested in my resume? [Click here](https://resume.github.io/?almuzahid16).
 - 🔥 Feel free to text me
+- ⚡ Fun fact: I love to play chess
 
 <!---
 muhammadalmuzahid/muhammadalmuzahid is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
